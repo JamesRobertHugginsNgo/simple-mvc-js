@@ -1,0 +1,1 @@
+const{fu:fu}={fu:o=>{console.log("Hello",o)}};export{fu};
